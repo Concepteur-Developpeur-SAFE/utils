@@ -1,0 +1,5 @@
+dotnet build
+
+dotnet test
+
+dotnet publish -c Release -o <output_directory>
