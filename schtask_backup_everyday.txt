@@ -1,0 +1,1 @@
+schtasks /create /sc daily /tn "Sauvegarde MySQL" /tr "C:\Users\Aelion\Documents\Thomas\ProjetFinalBackup\BackupScript.sh" /st 14:38:00 /f
