@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # MySQL DataBase Config
-DB_USER="root"
-DB_PASSWORD="root"
+DB_USER="user"
+DB_PASSWORD="user"
 DB_NAME="favouritemanager"
 
 # Backup Directory
