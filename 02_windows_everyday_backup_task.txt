@@ -1,0 +1,1 @@
+schtasks /create /sc daily /tn "Sauvegarde MySQL" /tr "FavouriteManagerUtils\BackupScript.sh" /st 23:59:00 /f

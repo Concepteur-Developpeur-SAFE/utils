@@ -1,0 +1,1 @@
+59 23 * * * /bin/bash /FavouriteManagerUtils/BackupScript.sh
